@@ -65,6 +65,19 @@ body {
     text-decoration: none;
     color: #f6f6f6;
     border: 2px solid #22d4fd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.presentacion__enlaces__link:hover {
+    background-color: #272727;
+}
+
+.presentacion_enlaces_logo_red {
+    width: 20px;
+    height: 20px;
 }
 
 img {
